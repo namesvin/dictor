@@ -1,2 +1,2 @@
 # dictor
- A simple dictionary lookup program written in Python.
+A simple dictionary lookup program written in Python.
